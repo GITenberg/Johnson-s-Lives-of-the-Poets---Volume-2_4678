@@ -1,0 +1,41 @@
+_repo: Johnson-s-Lives-of-the-Poets---Volume-2_4678
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: "Lives of the Most Eminent English Poets (1779–81) is a work by Samuel\
+  \ Johnson, comprising short biographies and critical appraisals of 52 poets, most\
+  \ of whom lived during the eighteenth century. It is arranged, approximately, by\
+  \ date of death.\nSix of the Lives have been singled out as the most \"important\"\
+  : John Milton, John Dryden, Alexander Pope, Joseph Addison, Jonathan Swift, and\
+  \ Thomas Gray. One of the lives, Richard Savage, was previously printed as Life\
+  \ of Mr Richard Savage in 1744.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4678'
+  wikidata: Q4015014
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 18th century -- History and criticism'
+- !lcsh 'Poets, English -- Biography -- Early works to 1800'
+- !lcsh 'English poetry -- Early modern, 1500-1700 -- History and criticism'
+- GITenberg
+tableOfContents: King -- Halifax -- Parnell -- Garth -- Rowe -- Gay -- Tickell --
+  Somervile -- Thomson -- Watts -- A. Philips -- West -- Collins -- Dyer -- Shenstone
+  -- Young -- Mallet -- Akenside -- Gray -- Lyttelton.
+title: Johnson's Lives of the Poets — Volume 2
+url: http://www.gutenberg.org/ebooks/4678
+wikipedia:
+- https://en.wikipedia.org/wiki/Lives_of_the_Most_Eminent_English_Poets
+- https://it.wikipedia.org/wiki/Vite_dei_pi%C3%B9_insigni_poeti_inglesi
+- https://es.wikipedia.org/wiki/Vidas_de_los_poetas_ingleses_m%C3%A1s_eminentes
