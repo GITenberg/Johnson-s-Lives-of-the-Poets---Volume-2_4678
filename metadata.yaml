@@ -1,5 +1,8 @@
 _repo: Johnson-s-Lives-of-the-Poets---Volume-2_4678
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Samuel
@@ -15,6 +18,8 @@ description: "Lives of the Most Eminent English Poets (1779–81) is a work by S
   : John Milton, John Dryden, Alexander Pope, Joseph Addison, Jonathan Swift, and\
   \ Thomas Gray. One of the lives, Richard Savage, was previously printed as Life\
   \ of Mr Richard Savage in 1744.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4678#Johnson-s-Lives-of-the-Poets---Volume-2
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
